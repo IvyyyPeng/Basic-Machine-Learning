@@ -9,7 +9,7 @@
 
 This program recognizes handwritten digits from 0 to 9 based on KNN model.
 The shape of digits is presented by matrices of 0's and 1's.
-Coding in Python.
+Coding in Python 3.
 
 source.py: all the main codes.
 
